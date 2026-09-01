@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: "Peiyuan Si (斯沛远)"
 permalink: /cv/
 author_profile: true
 redirect_from:
