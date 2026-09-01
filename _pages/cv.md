@@ -6,7 +6,6 @@ redirect_from:
   - /resume
 ---
 
-# Peiyuan Si (斯沛远)
 
 **Ph.D.**
 
